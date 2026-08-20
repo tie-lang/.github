@@ -32,11 +32,11 @@ We're made up of the wider community of developers and the core FranJ2 members.
 
 ## Repositories
 
-tie-main：编译器，预处理器，核心库，REPL，数据库，包管理器，一些示例程序
-tie-main: the compiler, preprocessor, core libraries, REPL, database, package manager, plus some examples.
+[tie-main](https://github.com/tie-lang/tie-main)：编译器，预处理器，核心库，REPL，数据库，包管理器，一些示例程序
+[tie-main](https://github.com/tie-lang/tie-main): the compiler, preprocessor, core libraries, REPL, database, package manager, plus some examples.
 
-tie-rust：种子编译器
-tie-rust: the seed compiler.
+[tie-rust](https://github.com/tie-lang/tiec_rust)：种子编译器
+[tie-rust](https://github.com/tie-lang/tiec_rust): the seed compiler.
 
 ## How to Help
 
