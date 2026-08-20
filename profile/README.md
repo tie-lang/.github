@@ -4,7 +4,7 @@
 
 ## What We Do
 
-我们在做一门叫 **tie** 的语言，门全栈通用编程语言。
+我们在做一门叫 **tie** 的语言，一门全栈通用编程语言。
 We're building a language called **tie** — a full-stack, general-purpose programming language.
 
 目标简单：全领域通用，Python 的体验，Rust 的性能与安全。
